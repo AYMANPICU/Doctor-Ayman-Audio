@@ -1,0 +1,76 @@
+{
+    "Qur'an♮audio": {
+        "cmds": [
+            "Radio Quran FM|http://n04.radiojar.com/8s5u5tpdtwzuv",
+            "Abdulbasit Warsh|https://qurango.net/radio/abdulbasit_abdulsamad_warsh",
+            "Abdulbasit Mojawwad|https://qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+            "Alminshawi|https://qurango.net/radio/mohammed_siddiq_alminshawi",
+            "Alhussary|https://qurango.net/radio/mahmoud_khalil_alhussary",
+            "Saad Alghamdi|https://qurango.net/radio/saad_alghamdi",
+            "Yasser Aldosari|https://qurango.net/radio/yasser_aldosari",
+            "Saud Alshuraim|https://qurango.net/radio/saud_alshuraim",
+            "Maher Al Meaqli|https://qurango.net/radio/maher_al_meaqli",
+            "Mishary Alafasi|https://qurango.net/radio/mishary_alafasi"
+        ]
+    },
+    "Free Sports Audio": {
+        "cmds": [
+            "ANIS BN 1|http://anisfmlow.ddns.net",
+            "ANIS BN 2|http://anisfm2low.ddns.net",
+            "ANIS BN 3|http://anisfm3low.ddns.net",
+            "ANIS BN 4|http://anisfm4low.ddns.net",
+            "ANIS BN 5|http://anisfm5low.ddns.net",
+            "ANIS BN 1B|http://anisfm.pp.ua/1L",
+            "ANIS BN 2B|http://anisfm.pp.ua/2L",
+            "ANIS BN 3B|http://anisfm.pp.ua/3L",
+            "ANIS BN 4B|http://anisfm.pp.ua/4L",
+            "ANIS BN 5B|http://anisfm.pp.ua/5L",
+            "ANIS HD 1A|http://anisfm.ddns.net",
+            "ANIS HD 2A|http://anisfm2.ddns.net",
+            "ANIS HD 3A|http://anisfm3.ddns.net",
+            "ANIS HD 4A|http://anisfm4.ddns.net",
+            "ANIS HD 5A|http://anisfm5.ddns.net",
+            "ANIS HD 1B|http://anisfm.pp.ua/1",
+            "ANIS HD 2B|http://anisfm.pp.ua/2",
+            "ANIS HD 3B|http://anisfm.pp.ua/3",
+            "ANIS HD 4B|http://anisfm.pp.ua/4",
+            "ANIS HD 5B|http://anisfm.pp.ua/5",
+            "ANIS BNMAX1|http://anisfm.pp.ua/Mx1",
+            "ANIS BNMAX2|http://anisfm.pp.ua/Mx2",
+            "ANIS BNMAX3|http://anisfm.pp.ua/MxFR",
+            "AD Sports 1|http://radio.best-audio.org/ADPrem1/mpegts",
+            "AD Sports 2|http://radio.best-audio.org/ADPrem2/mpegts",
+            "Abu Saif 1|http://radio.abusaif.work/abu-saif-sat-4K-1/mpegts",
+            "Abu Saif 2|http://radio.abusaif.work/abu-saif-sat-4K-2/mpegts"
+        ]
+    },
+    "Gosat Sports Audio": {
+        "cmds": [
+            "Gosat SPORTS 1|http://audio.gosatplus.com:8081/GOSAT/SPORT1/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 2|http://audio.gosatplus.com:8081/GOSAT/SPORT2/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 3|http://audio.gosatplus.com:8081/GOSAT/SPORT3/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 4|http://audio.gosatplus.com:8081/GOSAT/SPORT4/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 5|http://audio.gosatplus.com:8081/GOSAT/SPORT5/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 6|http://audio.gosatplus.com:8081/GOSAT/SPORT6/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 7|http://audio.gosatplus.com:8081/GOSAT/SPORT7/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 8|http://audio.gosatplus.com:8081/GOSAT/SPORT8/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS 9|http://audio.gosatplus.com:8081/GOSAT/SPORT9/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw",
+            "Gosat SPORTS xtra 1|http://audio.gosatplus.com:8081/GOSAT/XTRA1/mpeg.2ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6MjE6MTMgQU0maGFzaF92YWx1ZT0yZWMvMUJoVnNocFJXSmJXS3BDUDJBPT0mdmFsaWRtaW51dGVzPTYw"
+        ]
+    },
+    "Nova Sports Audio": {
+        "cmds": [
+            "Nova qu_s|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/39",
+            "Nova SPORTS 1|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/1",
+            "Nova SPORTS 2|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/2",
+            "Nova SPORTS 3|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/3",
+            "Nova SPORTS 4|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/4",
+            "Nova SPORTS 5|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/5",
+            "Nova SPORTS 6|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/16",
+            "Nova SPORTS 7|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/17",
+            "Nova SPORTS 8|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/18",
+            "Nova SPORTS 9|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/19",
+            "Nova ONFM|http://aulevel-nova-eg.twinsbeworld.info:80/h3audio/116619845814/20"
+        ]
+    }
+}
